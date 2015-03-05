@@ -2,7 +2,7 @@
   "drawer_items": {
     "App with Subgroups": {
       "has_subgroups": "yes",
-      "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/joop_blue.png",
+      "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/ic_action_good.png",
       "Subgroup 1": {
         "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/ic_action_help.png",
         "unique_id_field": "RequestID",
