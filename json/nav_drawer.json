@@ -1,16 +1,16 @@
 {
   "drawer_items": {
-    "someAppWithSubgroups": {
+    "App with Subgroups": {
       "has_subgroups": "yes",
       "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/joop_blue.png",
-      "subgroup1": {
+      "Subgroup 1": {
         "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/ic_action_help.png",
         "unique_id_field": "RequestID",
         "request_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/json/subgroup1.json",
         "post_url": "post_url",
         "transaction_array_name": "transactions_wow"
       },
-      "subgroup2": {
+      "Subgroup 2": {
         "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/ic_action_labels.png",
         "unique_id_field": "RequestID",
         "request_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/json/subgroup2.json",
@@ -18,7 +18,7 @@
         "transaction_array_name": "transactions"
       }
     },
-    "jsss": {
+    "JSSS": {
       "has_subgroups": "no",
       "logo_url": "https://raw.githubusercontent.com/rtejasvi/TestRepo/master/images/ic_action_gamepad.png",
       "unique_id": "RequestID",
